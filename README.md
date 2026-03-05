@@ -55,5 +55,5 @@ Advertising effects do not occur only in the current period. Instead, they persi
 
 To capture this carryover effect, **Adstock transformation** was applied to marketing channels.
 
-<img width="618" height="346" alt="image" src="https://github.com/user-attachments/assets/c1c7cf1e-1f90-4e28-a22c-7a6bf25221e3" />
+<img width="618" height="346" alt="image" src="https://github.com/prankush-sharma/MMM-Project/blob/main/images/addstock_output.png" />
 
