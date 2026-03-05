@@ -72,7 +72,8 @@ An **Ordinary Least Square(OLS) regression** model was built to estimate the imp
 
 Target variables :
 *Sales
-<img width="472" height="287" alt="image" src="https://github.com/user-attachments/assets/35fd127a-6ebc-4438-94e0-1acd39365588" />
+
+<img width="472" height="287" alt="image" src="https://github.com/prankush-sharma/MMM-Project/blob/main/images/regression_coefficient.png" />
 
 
 
