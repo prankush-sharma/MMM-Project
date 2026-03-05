@@ -57,3 +57,22 @@ To capture this carryover effect, **Adstock transformation** was applied to mark
 
 <img width="618" height="346" alt="image" src="https://github.com/prankush-sharma/MMM-Project/blob/main/images/addstock_output.png" />
 
+#
+
+**3.Regression Modeling**
+
+An **Ordinary Least Square(OLS) regression** model was built to estimate the impact of marketing activities on sales.
+
+* TV advertising(adstock)
+* Digital advertising(adstock)
+* Radio advertising(adstock)
+* Competitor advertising
+* Price
+* Seasonality
+
+Target variables :
+*Sales
+<img width="472" height="287" alt="image" src="https://github.com/user-attachments/assets/35fd127a-6ebc-4438-94e0-1acd39365588" />
+
+
+
