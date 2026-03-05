@@ -42,5 +42,6 @@ Synthetic data was used because real marketing datasets are usually confidential
 EDA was performed to understand patterns and relationships in the dataset.
 
 Technique used :
-* Scatter plotes
-  
+* Correlation Heatmap
+
+  ![image](images/heatmap.png)
