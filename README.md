@@ -132,9 +132,7 @@ Multicollinearity Check (VIF)
 ↓  
 Contribution Analysis  
 ↓  
-Marketing ROI  
-↓  
-Scenario Simulation  
+Marketing ROI   
 ↓  
 Model Evaluation
 
