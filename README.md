@@ -46,6 +46,9 @@ Technique used :
 
   ![image](images/heatmap.png)
 
+  The correlation heatmap highlights the relationships between marketing activities and sales performance.
+  Marketing channels such as TV and digital advertising exhibit positive correlations with sales, while price and competitor activity demonstrate negative relationship with sales.
+
 #
 
 **2.Adstock Transformation**
@@ -56,6 +59,9 @@ Advertising effects do not occur only in the current period. Instead, they persi
 To capture this carryover effect, **Adstock transformation** was applied to marketing channels.
 
 <img width="618" height="346" alt="image" src="https://github.com/prankush-sharma/MMM-Project/blob/main/images/addstock_output.png" />
+
+Adstock transformation is applied to marketing variables to capture the lagged effect of advertising.
+It assumes that advertising influences sales not only in the current period but also in future periods with decayling impact.
 
 #
 
@@ -71,7 +77,8 @@ An **Ordinary Least Square(OLS) regression** model was built to estimate the imp
 * Seasonality
 
 Target variables :
-*Sales
+
+* Sales
 
 <img width="472" height="287" alt="image" src="https://github.com/prankush-sharma/MMM-Project/blob/main/images/regression_coefficient.png" />
 
@@ -83,14 +90,21 @@ Variance Inflation Factor(VIF) was used to check for multicollinearity among pre
 
 <img width="472" height="287" alt="image" src="https://github.com/prankush-sharma/MMM-Project/blob/main/images/vif.png" />
 
+Variance Infletion Factor(VIF) was calculated to assess multicollinearity among independent variables.
+Since all VIF values are well below the commonly accepted threshold of 5, the predictors do not exhibit strong multicollinearity.
+
 #
 
 **5. Contribution Analysis**
+
 Contribution Analysis was performed to estimate the share of total sales driven by each marketing channel.
 
 This helps identify which channel are most effective in generating demand.
 
 <img width="472" height="400" alt="image" src="https://github.com/prankush-sharma/MMM-Project/blob/main/images/Contribution.png" />
+
+Contributio analysis estimates the share of total sales driven by each marketing channel.
+The results show that the digital advertising contributes the largest portion of sales,followed by TV advertising and radio. This insights helps business understand which channel are most effective in driving demand.
 
 #
 
@@ -101,6 +115,8 @@ Marketing ROI was calculated to evaluate the efficiency of marketing investments
 ROI helps determine which marketing channels generate the highest return.
 
 <img width="472" height="400" alt="image" src="https://github.com/prankush-sharma/MMM-Project/blob/main/images/ROI.png" />
+
+Marketing ROI analysis evaluates the return generated form each marketing channel relative to the amount invested. The results indicates that digital advertising provides the highest return on investment, making it the most efficient marketing channel for driving sales.
 
 
 #
