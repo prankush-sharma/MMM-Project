@@ -115,3 +115,31 @@ Model Performance was evaluated using :
 
 
 This results show that the model captures a significant poriton of the variation in sales.
+
+
+
+## Project Workflow
+
+Data Generation  
+↓  
+Exploratory Data Analysis  
+↓  
+Adstock Transformation  
+↓  
+Regression Modeling  
+↓  
+Multicollinearity Check (VIF)  
+↓  
+Contribution Analysis  
+↓  
+Marketing ROI  
+↓  
+Scenario Simulation  
+↓  
+Model Evaluation
+
+
+## Future Improvement
+
+* Incorporate real-world marketing datasets.
+* Implement marketing budget optimization.
