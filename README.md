@@ -75,5 +75,43 @@ Target variables :
 
 <img width="472" height="287" alt="image" src="https://github.com/prankush-sharma/MMM-Project/blob/main/images/regression_coefficient.png" />
 
+#
+
+**4. Multicollinearity Check**
+
+Variance Inflation Factor(VIF) was used to check for multicollinearity among predictors to ensure reliable regression estimates.
+
+<img width="472" height="287" alt="image" src="https://github.com/prankush-sharma/MMM-Project/blob/main/images/vif.png" />
+
+#
+
+**5. Contribution Analysis**
+Contribution Analysis was performed to estimate the share of total sales driven by each marketing channel.
+
+This helps identify which channel are most effective in generating demand.
+
+<img width="472" height="400" alt="image" src="https://github.com/prankush-sharma/MMM-Project/blob/main/images/Contribution.png" />
+
+#
+
+**6. Marketing ROI Analysis**
+
+Marketing ROI was calculated to evaluate the efficiency of marketing investments.
+
+ROI helps determine which marketing channels generate the highest return.
+
+<img width="472" height="400" alt="image" src="https://github.com/prankush-sharma/MMM-Project/blob/main/images/ROI.png" />
 
 
+#
+
+**7.Model Evaluation**
+
+Model Performance was evaluated using :
+* R-squared
+* Actual vs Predicted Sales Comparison
+
+<img width="472" height="400" alt="image" src="https://github.com/prankush-sharma/MMM-Project/blob/main/images/actual_predicted.png" />
+
+
+This results show that the model captures a significant poriton of the variation in sales.
