@@ -23,3 +23,13 @@ The goal of this project is to :
 
 A *synthetic dataset* was generated to simulate real-world marketing data.
 
+The dataset includes weekly observations of :
+
+* TV advertising spread
+* Digital advertising spend
+* Radio advertising spend
+* Competitor advertising activity
+* Product price
+* Seasonality
+* Sales
+
