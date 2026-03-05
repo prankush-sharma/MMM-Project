@@ -8,7 +8,6 @@ Market Mix Modelling is widely used by companies to measure the effectiveness of
 #
 
 ## Problem Statement
-
 Companies invest heavily in multiple marketing channels such as TV, digital media and radio advertising. However, it is often difficult to determine which channels contribute most to sales.
 
 The goal of this project is to : 
