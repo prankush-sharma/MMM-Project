@@ -45,3 +45,10 @@ Technique used :
 * Correlation Heatmap
 
   ![image](images/heatmap.png)
+
+#
+
+**2.Adstock Transformation**
+Advertising effects do not occur only in the current period. Instead, they persist over time and gradually decay.
+
+To capture this carryover effect, **Adstock transformation** was applied to marketing channels.
