@@ -33,3 +33,14 @@ The dataset includes weekly observations of :
 * Seasonality
 * Sales
 
+Synthetic data was used because real marketing datasets are usually confidential.
+
+
+## Methodology 
+**1. Exploratory Data Analysis (EDA)**
+
+EDA was performed to understand patterns and relationships in the dataset.
+
+Technique used :
+* Scatter plotes
+  
